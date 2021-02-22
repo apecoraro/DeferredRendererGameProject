@@ -1,5 +1,5 @@
 # DeferredRendererGameProject
-This is the code that I wrote for a team game project for my Digipen Masters program. This code doesn't compile or run anymore (for one because we used XNA, RIP, but also because I've only included the code that I wrote), I just have it here as an example of my work (albeit from 2010).
+This is the code that I wrote for a team game project as part of the Digipen Masters program. This code doesn't compile or run anymore (for one because we used XNA, RIP, but also because I've only included the code that I wrote), I just have it here as an example of my work (albeit from 2010).
 
 The game was called DeskWars. The idea was that you had to protect your cell phone from evil gremlins using animated desk objects, such as pencils, push pins, staplers, etc. It featured a deferred renderer supporting multiple shadow casting lights, which we used to give the game a dark feel, where the only light came from the head lamps on the push pin foot soldiers, the glow of the cell phone, and a solitary desk lamp.
 
